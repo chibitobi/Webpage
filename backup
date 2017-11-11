@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<!-- working from linux -->
+        <head>
+                <title> Jae-Won's Website </title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+        </head>
+        <body>
+                <nav>
+                <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/subpages/about.html">About</a></li>
+                        <li><a href="/subpages/NewResume.pdf">CV</a></li>
+                        <li><a href="/subpages/publication.html">Publications</a></li>
+                        <li><a href="/projects">Projects</a></li>
+                </ul>
+                </nav>
+                <div class="container"> <!-- division -->
+                        <div class="stuff">
+                                <h1> Welcome to my website!</h1> <!-- heading -->
+                                        <p> I'm currently a graduate student studying in Penn State University majoring in Computer
+                                                Engineering. Also looking forward to maintaining this website for some side projects
+                                                in regards to database related to baseball :) 
+                                        </p>
+                        </div> <!-- stuff -->
+                                                
+                
+                </div><!--container -->
+                
+                <footer>
+                <ul>
+                        <li><a href="mailto:jxj328@psu.edu">e-mail</a></li>
+                </ul>
+                </footer>
+        </body>
+</html>        
